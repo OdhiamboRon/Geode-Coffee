@@ -1,0 +1,139 @@
+Absolutely! Here's a revised prompt tailored to your needs — **keeping existing photos**, **not requiring Firebase**, and **including all Kenyan coffee varieties, grades, and growing regions**:
+
+---
+
+**Prompt for Replit AI Web Builder:**
+
+---
+
+Revamp this coffee export website for **GEODE Coffee**, a Kenyan-based company sourcing and supplying high-quality, traceable coffee to global buyers. The site should remain static (no need for Firebase), and must retain the **existing photos**, while enhancing overall design, usability, and content structure. Apply the following upgrades:
+
+---
+
+### 🎨 Visual & Branding Enhancements
+
+* Retain existing images but improve layout and framing for better aesthetic balance and text readability.
+* Use a consistent color scheme: earthy browns, soft creams, and greens to reflect premium, natural, Kenyan coffee.
+* Apply a stylish font pairing:
+
+  * **Headings**: elegant serif like "Playfair Display"
+  * **Body**: clean sans-serif like "Inter" or "Open Sans"
+* Use generous padding and spacing to avoid clutter.
+
+---
+
+### ✍️ Content Structure & Clarity
+
+Update all sections for better storytelling and professionalism:
+
+#### Hero Section
+
+* Headline: **“Kenya’s Finest Coffee — Traceable, Premium, and Straight from Origin.”**
+* Subheading: **“Explore our wide range of Kenyan coffee varieties, grades, and regions. Perfect for global roasters and importers.”**
+* Button CTA: “Request a Sample” or “Explore Our Coffees”
+
+#### About Us
+
+* Share the GEODE story: origins, mission, and your connection to Kenyan farmers.
+* Highlight ethical sourcing, traceability, and quality assurance.
+
+#### Coffee Varieties Section
+
+Add a section titled **“Our Coffee Varieties”**:
+List all key Kenyan coffee cultivars:
+
+* SL28
+* SL34
+* Ruiru 11
+* Batian
+* K7
+* Blue Mountain
+* French Mission
+* Kent
+
+#### Growing Regions Section
+
+Add a section titled **“Kenyan Coffee-Growing Regions”** with a short paragraph for each:
+
+* Nyeri
+* Kirinyaga
+* Embu
+* Meru
+* Murang’a
+* Kisii
+* Bungoma
+* Machakos
+* Nakuru
+* Nandi
+* Kericho
+* Trans-Nzoia
+* Mt. Elgon
+
+(Optionally show these on a map of Kenya)
+
+#### Coffee Grades Section
+
+Add a section titled **“Available Grades”**, with descriptions:
+
+* **AA** – Large bean size, excellent aroma and acidity.
+* **AB** – Slightly smaller but still premium quality.
+* **PB (Peaberry)** – Rounder bean, concentrated flavor.
+* **C, T, TT, UG** – Commercial grades, describe their use cases.
+
+#### Get in Touch
+
+* Add a clean contact form (no database needed):
+
+  * Name
+  * Company
+  * Email
+  * Country
+  * Coffee interest (dropdown: Green Beans, Roasted, Sample, etc.)
+  * Message
+* Form can just use `mailto:` for now or simple static form handler like Formspree or Getform.
+
+---
+
+### 🧩 Functional Improvements
+
+* Add a fixed top navigation bar with smooth scroll links to: Home, Varieties, Regions, Grades, About, Contact.
+* Add responsive layout that looks clean and accessible on all screen sizes.
+* Improve form UX: make fields clearly labeled and easy to use.
+* Add a confirmation message after form submission (“Thanks for reaching out!”).
+
+---
+
+### 📈 SEO & Trust Building
+
+* Add metadata for SEO:
+
+  ```html
+  <title>GEODE Coffee – Exporting Kenya’s Finest Coffee to the World</title>
+  <meta name="description" content="GEODE Coffee sources and exports premium Kenyan coffee varieties like SL28 and Ruiru 11, across all major growing regions. Explore AA, AB, and Peaberry grades.">
+  ```
+* Use semantic HTML (e.g., `<section>`, `<header>`, `<footer>`) to improve crawlability.
+* Add alt text to all images, e.g., `alt="SL28 beans drying on raised beds"`
+
+---
+
+### ✅ Extras for Credibility
+
+* Add a testimonials or partner section (even placeholder quotes help).
+* Add a footer with:
+
+  * GEODE Coffee name
+  * Contact email and phone
+  * Instagram or WhatsApp icon
+  * “Proudly based in Kenya”
+
+---
+
+### Optional
+
+* Add a toggle for dark mode (make sure existing photos still look good).
+* Include a “Why Kenyan Coffee?” section with facts about altitude, rainfall, and soil.
+* Optionally embed a downloadable catalog PDF or pricing sheet.
+
+---
+
+This version should look premium, communicate trust, and give potential coffee buyers the full scope of your offerings — all while staying static and lightweight. Let me know if you want this prompt tailored for WordPress or another platform!

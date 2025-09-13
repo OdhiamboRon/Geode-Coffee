@@ -1,0 +1,104 @@
+Great choice! Here’s a powerful prompt you can paste into Replit AI or any AI web code generator (like Gemini, GPT-4o, or Claude) to create a **modern, professional, and fully functional sourcing agency website** for your business, **GEODE Coffee**. The website will be hosted on **Firebase**, so we’ll keep it clean, fast, mobile-friendly, and scalable.
+
+---
+
+### ✅ YOUR PROMPT:
+
+> **Prompt:**
+>
+> Build a modern, fully responsive website for a premium coffee sourcing company called **GEODE Coffee**. The company connects high-quality Kenyan coffee producers with international buyers (especially roasters in the U.S.).
+>
+> ### 📄 The site should have the following pages:
+>
+> 1. **Home**
+>
+> * Eye-catching hero section with tagline: *“Bridging Africa’s Best Beans to the World”*
+>
+> * High-res background image of Kenyan coffee farms
+>
+> * Call-to-action button: “Request a Sample”
+>
+> 2. **About Us**
+>
+> * Tell our story: GEODE is a sourcing agent for specialty coffee, gemstones, and gold, now focusing on premium coffee exports.
+>
+> * Emphasize transparency, traceability, and exclusive access to top producers.
+>
+> * Include founder photo and short quote: *“We exist to connect people to purpose through the power of ethical trade.”*
+>
+> 3. **Our Coffee**
+>
+> * Showcase coffee types (SL28, SL34, Ruiru 11, Batian, etc.)
+>
+> * Describe tasting notes, growing regions (e.g., Nyeri, Kirinyaga, Kiambu)
+>
+> * Include origin traceability badges (organic, fair-trade, single-farm)
+>
+> * Add sample request button
+>
+> 4. **Become a Buyer**
+>
+> * Simple form to collect buyer interest: Name, Company, Country, Monthly Volume, Preferred Origin, Email
+>
+> * Call-to-action: “Let’s Talk Coffee”
+>
+> 5. **Contact**
+>
+> * Map embed (Nairobi HQ)
+> * Contact info: WhatsApp, Email, LinkedIn
+> * Social icons footer
+>
+> ### 🎨 Design Style:
+>
+> * Minimalist, modern UI
+> * Color palette: Earth tones (coffee brown, forest green, cream white)
+> * Use smooth transitions and animations (Framer Motion or Tailwind transitions)
+> * Font: Playfair Display for headers, Inter or Lato for body
+>
+> ### ⚙️ Functionality:
+>
+> * Fully responsive (mobile-first)
+> * Firebase hosting setup (HTML + JS or React)
+> * Firebase Firestore integration to store buyer leads from the form
+> * Contact form email via Firebase Functions or EmailJS
+> * Optional dark mode toggle
+>
+> ### 📁 Project Structure:
+>
+> * React app using Tailwind CSS
+> * Firebase project (Firestore, Hosting, Functions)
+> * `.env` support for Firebase config
+> * Include Firebase initialization and Firestore connection in `/src/firebase.js`
+>
+> ### 💡 Bonus Features (if possible):
+>
+> * FAQ dropdowns on “Become a Buyer” page
+> * Testimonials slider
+> * Blog section placeholder for future SEO content
+
+---
+
+### 🧠 Tips When Using This Prompt:
+
+* Use **Replit AI**, **GPT-4o**, or **Gemini** with “web app” coding mode.
+* You can say: “Generate full codebase using React + Tailwind + Firebase Hosting + Firestore.”
+* After generation, ask it to give you:
+
+  * `firebase.json`
+  * `firebase.js` (init file)
+  * `firestore.rules`
+  * `index.html` or `App.jsx` with routes
+  * `.env.example` with config keys
+
+---
+
+### 🔥 Bonus Add-On
+
+When you’re ready, I can also help:
+
+* Write **engaging SEO copy** for the pages
+* Set up **Firebase Hosting** step-by-step
+* Link your **custom domain** (e.g., `geodecoffee.com`)
+* Add **Google Analytics** or **Meta Pixel** tracking
+
+Would you like me to generate the **actual website code** for Firebase + React right now?

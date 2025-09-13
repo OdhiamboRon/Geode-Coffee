@@ -1,0 +1,26 @@
+{
+  "name": "GEODE Coffee - Premium Kenyan Coffee Sourcing",
+  "short_name": "GEODE Coffee",
+  "description": "Premium Kenyan coffee sourced directly from the highlands. Connecting passionate producers with discerning roasters worldwide.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#faf7f0",
+  "theme_color": "#f97316",
+  "orientation": "portrait-primary",
+  "categories": ["business", "food"],
+  "lang": "en",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ccircle cx='50' cy='50' r='45' fill='%23f97316'/%3E%3Ctext x='50' y='60' font-family='serif' font-size='30' font-weight='bold' text-anchor='middle' fill='white'%3EG%3C/text%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ccircle cx='50' cy='50' r='45' fill='%23f97316'/%3E%3Ctext x='50' y='60' font-family='serif' font-size='30' font-weight='bold' text-anchor='middle' fill='white'%3EG%3C/text%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
